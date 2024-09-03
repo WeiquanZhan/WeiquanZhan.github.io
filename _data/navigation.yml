@@ -14,7 +14,7 @@ main:
 
   
   - #title: "Academic experience"
-    url: /teaching/ 
+    #url: /teaching/ 
 
     
   - title: "Personal information"
