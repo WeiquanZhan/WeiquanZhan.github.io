@@ -11,7 +11,7 @@ I am Weiquan Zhan, and I will begin my role as a Postdoctoral Associate at Virgi
 
 Research interests
 ======
-My research interests center on interdisciplinary studies that address environmental and technological challenges in mining practices, mineral processing, metal purification and refinement.I aim to promote the production of trace critical minerals, such as gold, rare earth elements, and lithium, from various feedstocks, including primary sources like ores, mining wastes, as well as secondary sources like industrial and urban wastes, and other promising materials.
+My research interests center on interdisciplinary studies that address environmental and technological challenges in mining practices, mineral processing, metal purification and refinement. I aim to promote the production of trace critical minerals, such as gold, rare earth elements, and lithium, from various feedstocks, including primary sources like ores, mining wastes, as well as secondary sources like industrial and urban wastes, and other promising materials.
 
 Getting started
 ======
