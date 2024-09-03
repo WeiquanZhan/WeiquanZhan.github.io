@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Weiquan Zhan"
-title                    : "-"
+title                    : "Weiquan Zhan"
 title_separator          : "-"
 name                     : &name "Weiquan Zhan"
 description              : &description "Critical metal recovery"
@@ -24,7 +24,7 @@ author:
   avatar           : "weiquanzhan.png"
   name             : "Weiquan Zhan"
   pronouns         : # example: "He/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Critical metals recovery"
   location         : "China"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -40,12 +40,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
