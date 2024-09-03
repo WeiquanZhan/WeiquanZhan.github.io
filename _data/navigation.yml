@@ -10,13 +10,19 @@ main:
 
 
   
-  - title: "Academic experience"
+  - #title: "Academic experience"
     url: /teaching/ 
+
+    
+  - title: "Personal information"
+    url: /cv/
+
 
 
   
   - title: "Publications"
     url: /publications/
+
 
 
   
@@ -25,8 +31,7 @@ main:
 
 
 
-  - title: "CV"
-    url: /cv/
+
     
   - # title: "Portfolio"
     url: /portfolio/
