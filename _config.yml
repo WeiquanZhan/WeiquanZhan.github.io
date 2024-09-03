@@ -12,7 +12,7 @@ title                    : "-"
 title_separator          : "-"
 name                     : &name "Weiquan Zhan"
 description              : &description "Critical metal recovery"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://WeiquanZhan.github.io"
+url                      : https://WeiquanZhan.github.io # the base hostname & protocol for your site e.g. "https://WeiquanZhan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
