@@ -11,32 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Universidad Autónoma de San Luis Potosí, Mexico
+* M.S. in Wuhan University of Technology, China
+* B.S. in Wuhan University of Technology, China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.10: Virginia Tech, Postdoctoral Associate
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.09-2024.09: Research Assistant
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Simulations: Molecular dynamic simulations (MDs); Density functional theory (DFT); COMSOL
+* Electrochemical theory and techniques
+* SEM; Zeta potential; Laser particle analyzer; Surface intension; Contact angle tests
