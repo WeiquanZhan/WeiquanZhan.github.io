@@ -2,7 +2,7 @@
 title: "Regulating Chemisorption and Electrosorption Activity for Efficient Uptake of Rare Earth Elements in Low Concentration on Oxygen-Doped Molybdenum Disulfide"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://doi.org/10.1021/acsnano.4c00691
 date: 2024
 venue: 'ACS Nano'
 paperurl: 'https://doi.org/10.1021/acsnano.4c00691'
