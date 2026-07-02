@@ -9,7 +9,7 @@ redirect_from:
 
 **Understanding and engineering mineral interfaces for a sustainable future**
 <div class="lead">
-I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore. My research focuses on mineral interface engineering for sustainable resource utilization, integrating molecular simulations, electrochemistry, catalysis, and advanced materials to understand and design interfacial processes across energy, construction, and critical metal recovery. My researcu has resulted in 39 peer-reviewed publications, including 24 first- or corresponding-author papers, and 3 granted patents.
+I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore. My research focuses on mineral interface engineering for sustainable resource utilization, integrating molecular simulations, electrochemistry, catalysis, and advanced materials to understand and design interfacial processes across energy, construction, and critical metal recovery. My research has resulted in 39 peer-reviewed publications, including 24 publications as first- or corresponding author, and 3 granted patents.
 </div>
 
 ## Research Vision
