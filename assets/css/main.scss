@@ -39,3 +39,61 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page__title {
+  color: #1f3b4d;
+  font-weight: 800;
+}
+
+.page h1 {
+  color: #1f3b4d;
+  font-weight: 800;
+  border-bottom: 3px solid #2a9d8f;
+  padding-bottom: 0.3em;
+}
+
+.page h2 {
+  color: #264653;
+  font-weight: 700;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 0.25em;
+}
+
+.page h3 {
+  color: #2a9d8f;
+  font-weight: 700;
+}
+
+.page a {
+  color: #2a9d8f;
+}
+
+.page a:hover {
+  color: #e76f51;
+}
+
+.page__content {
+  font-size: 1.03em;
+  line-height: 1.75;
+}
+
+.author__name {
+  color: #1f3b4d;
+  font-weight: 800;
+}
+
+.author__bio {
+  color: #555;
+}
+
+.masthead {
+  border-bottom: 1px solid #eeeeee;
+}
+
+.greedy-nav a {
+  color: #34495e;
+}
+
+.greedy-nav a:hover {
+  color: #2a9d8f;
+}
