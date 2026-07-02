@@ -12,7 +12,7 @@ title                    : "Weiquan Zhan"
 title_separator          : "-"
 name                     : &name "Weiquan Zhan"
 description              : &description "Critical metals; Clay Minerals; Green hydrometallurgy"
-url                      : https://WeiquanZhan.github.io
+url                      : "https://WeiquanZhan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeiquanZhan/WeiquanZhan.github.io"
 
