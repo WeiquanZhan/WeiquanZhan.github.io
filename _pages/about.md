@@ -1,31 +1,31 @@
 ---
 permalink: /
-title: "Mineral Interface Engineering"
+title: "Mineral Interface Engineering (MINE)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Engineering mineral interfaces for sustainable materials and resource recovery.**
+**Understanding and engineering mineral interfaces for a sustainable future**
 
 I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore. My research focuses on mineral interface engineering for sustainable resource utilization, integrating molecular simulations, electrochemistry, catalysis, and advanced materials to understand and design interfacial processes across energy, construction, and critical metal recovery.
 
-Research interests
+Research Interests
 ======
--Mineral Interface Engineering
--Clay Minerals and Alkali-Activated Materials-
--Molecular Simulations
--Density Functional Theory
--Sustainable Recovery of Critical Metals
--Electrochemcial Interfacial Processes
--AI-Assisted Materials Design
+- Mineral Interface Engineering
+- Clay Minerals and Alkali-Activated Materials
+- Molecular Simulations
+- Density Functional Theory
+- Sustainable Recovery of Critical Metals
+- Electrochemcial Interfacial Processes
+- AI-Assisted Materials Design
 
-Current research directions
+Current Research Directions
 ======
-Clay-gel interfaces in sustainable construction materials
-Mineral interfaces for critical metal recovery
-Molecular simulation of interfacial processes
+- Clay-gel interfaces in sustainable construction materials
+- Mineral interfaces for critical metal recovery
+- Molecular simulation of interfacial processes
 
 Research Vision
 ======
