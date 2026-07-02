@@ -3,7 +3,7 @@ title: "Regulating Chemisorption and Electrosorption Activity for Efficient Upta
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1021/acsnano.4c00691
-date: 2024
+date: 2024-01-01
 venue: 'ACS Nano'
 paperurl: 'https://doi.org/10.1021/acsnano.4c00691'
 ---
