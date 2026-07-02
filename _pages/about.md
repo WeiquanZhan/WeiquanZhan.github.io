@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Mineral Interface Engineering"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Mineral Interface Engineering
 
 **Engineering mineral interfaces for sustainable materials and resource recovery.**
 
