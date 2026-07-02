@@ -59,11 +59,6 @@
   padding-bottom: 0.25em;
 }
 
-.page h3 {
-  color: #2a9d8f;
-  font-weight: 700;
-}
-
 .page a {
   color: #2a9d8f;
 }
@@ -97,3 +92,49 @@
 .greedy-nav a:hover {
   color: #2a9d8f;
 }
+
+.page__content ol li {
+  margin-bottom: 0.4em;
+  color: #4a4f55;
+  font-weight: 400;
+}
+
+.page__content ul li {
+  margin-bottom: 0.25em;
+}
+@media (min-width: 1024px) {
+  .page {
+    width: calc(100% - 300px);
+    padding-right: 2em;
+  }
+
+  .page__inner-wrap {
+    max-width: 1100px;
+  }
+
+  .sidebar {
+    width: 260px;
+  }
+}
+
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.page__content li {
+  text-align: justify;
+}
+
+.page__content {
+  hyphens: auto;
+}
+
+.lead {
+  font-size: 1.18rem;
+  line-height: 1.9;
+  color: #3a3a3a;
+  text-align: justify;
+  margin-bottom: 2rem;
+}
+
