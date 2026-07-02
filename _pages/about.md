@@ -7,16 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am Weiquan Zhan, and I will begin my role as a Postdoctoral Associate at Virginia Tech in October 2024. My goal is to explore innovative methods for promoting sustainable practices in the minerals industry while leveraging the latest technological advancements.
+# Mineral Interrface Engineering
+
+**Engineering mineral interfaces for sustainable materials and resource recovery.**
+
+I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore. My research focuses on mineral interface engineering for sustainable resource utilization, integrating molecular simulations, electrochemistry, catalysis, and advanced materials to understand and design interfacial processes across energy, construction, and critical metal recovery.
 
 Research interests
 ======
-My research interests center on interdisciplinary studies that address environmental and technological challenges in mining practices, mineral processing, metal purification and refinement. I aim to promote the production of trace critical minerals, such as gold, rare earth elements, and lithium, from various feedstocks, including primary sources like ores, mining wastes, as well as secondary sources like industrial and urban wastes, and other promising materials.
+-Mineral Interface Engineering
+-Clay Minerals and Alkali-Activated Materials-
+-Molecular Simulations
+-Density Functional Theory
+-Sustainable Recovery of Critical Metals
+-Electrochemcial Interfacial Processes
+-AI-Assisted Materials Design
 
-Gold recovery from non-cyanide thiosulfate leaching solutions
-------
-Since 2018, I have dedicated my efforts to the recovery of trace gold from non-cyanide thiosulfate leaching solutions. This endeavor aimed to overcome the limitations of thiosulfate leaching method in actual industrial application, which has been researched for decades. Through innovative methods involving catalytic and electrochemical processes utilizing molybdenum disulfide and carbon materials, I successfully achieved efficient recovery of gold thiosulfate complexes. This breakthrough not only enhances the viability of thiosulfate leaching but also streamlines the traditional leaching procedures.
+Current research directions
+======
+Clay-gel interfaces in sustainable construction materials
+Mineral interfaces for critical metal recovery
+Molecular simulation of interfacial processes
 
-Chemisorption and Electrosorption Coupling Process
-------
-I expanded the scope of my research to include the electrochemical recovery of trace REEs in leaching solutions. For the first time, I established the Chemisorption and Electrosorption Coupling (CEC) process through structural engineering of transition metal sulfides. This pioneering approach holds immense promise for the recovery of precious and rare metals from complex solutions.
+Research Vision
+======
+My long-term goal is to establish a research program centered on mineral interface engineering, bridging sustainable construction materials and resource resource recovery. By understanding how mineral interfaces regulate ion transport, interfacial bonding, and chemcial reactivity, I aim to develop next-generation materials and processes for low-carbon construction, circular resource utilization, and critical metal security.
