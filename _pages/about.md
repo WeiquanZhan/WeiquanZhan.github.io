@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Mineral Interrface Engineering
+# Mineral Interface Engineering
 
 **Engineering mineral interfaces for sustainable materials and resource recovery.**
 
