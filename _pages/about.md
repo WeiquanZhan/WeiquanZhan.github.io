@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# Mineral Interface Engineering (MINE)
-
 <div class="subtitle">
 
 Understanding and engineering mineral interfaces for a sustainable future
@@ -22,7 +20,7 @@ I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), S
 
 ## Research Vision
 
-My long-term goal is to establish a research program centered on mineral interface engineering, bridging sustainable construction materials and resource recovery. By understanding how mineral interfaces regulate ion transport, interfacial bonding, and chemcial reactivity, I aim to develop next-generation materials and processes for low-carbon construction, circular resource utilization, and critical metal security.
+My long-term goal is to establish a research program centered on mineral interface engineering, bridging sustainable construction materials and resource recovery. By understanding how mineral interfaces regulate ion transport, interfacial bonding, and chemical reactivity, I aim to develop next-generation materials and processes for low-carbon construction, circular resource utilization, and critical metal security.
 
 ## Research Themes
 
