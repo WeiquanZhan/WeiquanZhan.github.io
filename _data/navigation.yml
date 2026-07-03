@@ -5,80 +5,23 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Home"
+    url: /
 
+  - title: "Research"
+    url: /research/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-    
-  - title: "Personal information"
-    url: /cv/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   - title: "Publications"
     url: /publications/
 
+  - title: "News"
+    url: /news/
 
+  - title: "Gallery"
+    url: /gallery/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-
-
-
-  - #title: "Academic experience"
-    #url: /teaching/ 
-  
-  - # title: "Portfolio"
-    # url: /portfolio/
-        
-  - # title: "Blog Posts"
-    # url: /year-archive/
-    
-  - # title: "Guide"
-    # url: /markdown/
+  - title: "CV"
+    url: /cv/
