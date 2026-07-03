@@ -1,95 +1,12 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+--- title: "Publications" permalink: /publications/ author_profile: true ---
+A complete list of my peer-reviewed publications is also available on Google Scholar.
 
-<p>
-You can also find my articles on
-<a href="https://scholar.google.com/citations?hl=en&user=r_BhD_cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
-</p>
-
-<h2>Publications</h2>
-
-<h3>2026</h3>
-
-<div class="pub-card">
-  <div class="pub-image">
-    <img src="/images/publications/pub-2026-01.png" alt="Publication graphical abstract">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title">
-      Boosting electrochemical reduction-recovery of trace gold(I) with ferric-modified walnut shell charcoal
-    </div>
-    <div class="pub-authors">
-      S. Song, <strong>W. Zhan*</strong>, Q. Weng, C. Zhan, F. Jia
-    </div>
-    <div class="pub-journal-text">
-      <em>International Journal of Mining Science and Technology</em>, 2026, 36(5), 903–915.
-    </div>
-    <div class="pub-links">
-      <a href="#">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-image">
-    <img src="/images/publications/pub-2026-02.png" alt="Publication graphical abstract">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title">
-      Trends in electro-adsorption technologies for rare earth elements recovery: materials, mechanisms, and future prospects
-    </div>
-    <div class="pub-authors">
-      <strong>W. Zhan</strong>, W. Zhang
-    </div>
-    <div class="pub-journal-text">
-      <em>Chemical Engineering Journal</em>, 2026, 531, 174048.
-    </div>
-    <div class="pub-links">
-      <a href="#">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-image">
-    <img src="/images/publications/pub-2026-03.png" alt="Publication graphical abstract">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title">
-      Ion exchange mechanism of Na-modified attapulgite for the recovery of trace Rb(I)
-    </div>
-    <div class="pub-authors">
-      N. Guo, H. Song, <strong>W. Zhan*</strong>, T. Chen, J. Li, S. Song, M. Badawi
-    </div>
-    <div class="pub-journal-text">
-      <em>Separation and Purification Technology</em>, 2026, 392, 137184.
-    </div>
-    <div class="pub-links">
-      <a href="#">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-image">
-    <img src="/images/publications/pub-2026-04.png" alt="Publication graphical abstract">
-  </div>
-  <div class="pub-info">
-    <div class="pub-title">
-      Selective lithium recovery via photothermal evaporation and hydration-controlled adsorption
-    </div>
-    <div class="pub-authors">
-      Y. Pan, Y. Zhang, G. Liu, <strong>W. Zhan*</strong>, W. Zhang
-    </div>
-    <div class="pub-journal-text">
-      <em>Advanced Science</em>, 2026, 20(13), e20066.
-    </div>
-    <div class="pub-links">
-      <a href="#">PDF</a>
-    </div>
-  </div>
-</div>
+{% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %} {% for year_group in publication_years %}
+{{ year_group.name }}
+{% for pub in year_group.items %}
+Graphical abstract for {{ pub.title | strip_html }}
+{{ pub.title }}
+{{ pub.authors }}
+{{ pub.journal }}, {{ pub.year }}, {{ pub.details }}.
+{% if pub.pdf and pub.pdf != "" %} PDF {% endif %} {% if pub.doi and pub.doi != "" %} DOI {% endif %}
+{% endfor %} {% endfor %}
