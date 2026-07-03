@@ -552,18 +552,19 @@
   margin-bottom: 0.65rem;
 }
 
-.pub-links a {
-  display: inline-block;
-  margin-right: 0.5rem;
-  padding: 0.22rem 0.6rem;
-  border: 1px solid #2a9d8f;
-  border-radius: 6px;
-  color: #2a9d8f;
-  text-decoration: none;
-  font-weight: 600;
+.pub-links a{
+    display:inline-block;
+    margin-right:.6rem;
+    padding:.32rem .8rem;
+    border:1px solid #2a9d8f;
+    border-radius:7px;
+    color:#2a9d8f;
+    font-weight:600;
+    text-decoration:none;
+    transition:.2s;
 }
 
-.pub-links a:hover {
-  background: #2a9d8f;
-  color: #fff;
+.pub-links a:hover{
+    background:#2a9d8f;
+    color:white;
 }
