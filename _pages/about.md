@@ -25,10 +25,12 @@ My long-term goal is to establish a research program centered on mineral interfa
 
 ## Research Themes
 
-1. Clay-gel interfaces in sustainable construction materials
-2. Mineral interfaces for critical metal recovery
-3. Molecular simulations of interfacial processes
-4. AI-assisted materials and process design
+<ol class="theme-list">
+  <li>Clay-gel interfaces in sustainable construction materials</li>
+  <li>Mineral interfaces for critical metal recovery</li>
+  <li>Molecular simulations of interfacial processes</li>
+  <li>AI-assisted materials and process design</li>
+</ol>
 
 ## Research Interests
 
