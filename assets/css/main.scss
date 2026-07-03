@@ -253,3 +253,58 @@
 .btn {
   border-radius: 8px;
 }
+
+@media (min-width: 1024px) {
+  .sidebar {
+    text-align: center;
+    border-right: 1px solid #e5e7eb;
+    padding-right: 2rem;
+  }
+
+  .author__avatar img {
+    width: 210px !important;
+    height: 210px !important;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  }
+
+  .author__name {
+    font-size: 1.65rem;
+    margin-top: 1rem;
+  }
+
+  .author__bio {
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  .author__urls {
+    text-align: left;
+    margin-top: 1.8rem;
+  }
+}
+
+.page__content {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.lead {
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+.page h1 {
+  font-size: 1.85rem;
+}
+
+.page h2 {
+  font-size: 1.35rem;
+  margin-top: 2.2rem;
+}
+
+.notice--info,
+.btn {
+  border-radius: 8px;
+}
