@@ -308,3 +308,19 @@
 .btn {
   border-radius: 8px;
 }
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.tag-list span {
+  background: #d8f1ef;
+  color: #0f4c5c;
+  padding: 0.45rem 1rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
