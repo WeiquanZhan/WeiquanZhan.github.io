@@ -384,3 +384,20 @@
     grid-template-columns: 1fr;
   }
 }
+
+.page{
+    max-width:none !important;
+}
+
+.page__inner-wrap{
+    max-width:1550px !important;
+    width:100%;
+}
+
+.archive{
+    max-width:1550px !important;
+}
+
+.archive__item{
+    max-width:none !important;
+}
