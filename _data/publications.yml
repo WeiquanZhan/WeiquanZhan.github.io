@@ -1,0 +1,370 @@
+- id: pub-01
+  year: 2026
+  title: Boosting electrochemical reduction-recovery of trace gold(I) with ferric-modified walnut shell charcoal
+  authors: S. Song, <strong>W. Zhan*</strong>, Q. Weng, C. Zhan, F. Jia
+  journal: International Journal of Mining Science and Technology
+  details: 36(5), 903–915
+  doi: 10.1016/j.ijmst.2026.02.005
+  image: /images/publications/pub-01.png
+  pdf: /files/publications/pub-01.pdf
+- id: pub-02
+  year: 2026
+  title: 'Trends in electro-adsorption technologies for rare earth elements recovery: Materials, mechanisms, and future prospects'
+  authors: <strong>W. Zhan</strong>, W. Zhang
+  journal: Chemical Engineering Journal
+  details: 531, 174048
+  doi: 10.1016/j.cej.2026.174048
+  image: /images/publications/pub-02.png
+  pdf: /files/publications/pub-02.pdf
+- id: pub-03
+  year: 2026
+  title: Ion exchange mechanism of Na-modified attapulgite for the recovery of trace Rb(I)
+  authors: N. Guo, H. Song, <strong>W. Zhan*</strong>, T. Chen, J. Li, S. Song, M. Badawi
+  journal: Separation and Purification Technology
+  details: 392, 137184
+  doi: 10.1016/j.seppur.2026.137184
+  image: /images/publications/pub-03.png
+  pdf: /files/publications/pub-03.pdf
+- id: pub-04
+  year: 2026
+  title: Selective lithium recovery via photothermal evaporation and hydration-controlled adsorption
+  authors: Y. Pan, Y. Zhang, G. Liu, <strong>W. Zhan*</strong>, W. Zhang
+  journal: Advanced Science
+  details: 13(20), e202520066
+  doi: 10.1002/advs.202520066
+  image: /images/publications/pub-04.png
+  pdf: /files/publications/pub-04.pdf
+- id: pub-05
+  year: 2025
+  title: Enhanced trace gadolinium(III) extraction via tailored chemisorption on defect-engineered molybdenum disulfide electrodes
+  authors: <strong>W. Zhan*</strong>, Y. Yuan, Q. Weng, Y. Pan, S. Song, J. Arauz-Lara, F. Jia, W. Zhang
+  journal: Chemical Engineering Journal
+  details: 512, 162632
+  doi: 10.1016/j.cej.2025.162632
+  image: /images/publications/pub-05.png
+  pdf: /files/publications/pub-05.pdf
+- id: pub-06
+  year: 2025
+  title: Electrochemical reduction and recovery of trace gold(I) from environmentally friendly thiosulfate leaching solutions
+    using carbon electrodes
+  authors: Q. Weng, <strong>W. Zhan*</strong>, X. Zhang, S. Song, Z. Zeng, H. Lwin, J. Arauz-Lara, F. Jia
+  journal: Carbon
+  details: 232, 119799
+  doi: 10.1016/j.carbon.2024.119799
+  image: /images/publications/pub-06.png
+  pdf: /files/publications/pub-06.pdf
+- id: pub-07
+  year: 2025
+  title: 'Sustainable lithium extraction from produced water: Integrating membrane pretreatment and next-generation adsorbents'
+  authors: Y. Pan, <strong>W. Zhan*</strong>, W. Zhang
+  journal: Journal of Environmental Management
+  details: 382, 125343
+  doi: 10.1016/j.jenvman.2025.125343
+  image: /images/publications/pub-07.png
+  pdf: /files/publications/pub-07.pdf
+- id: pub-08
+  year: 2025
+  title: 'Advanced computational strategies for lithium chemical and electrochemical adsorption: A comprehensive state-of-the-art
+    review'
+  authors: Y. Pan, <strong>W. Zhan*</strong>, W. Zhang
+  journal: Desalination
+  details: 600, 118524
+  doi: 10.1016/j.desal.2024.118524
+  image: /images/publications/pub-08.png
+  pdf: /files/publications/pub-08.pdf
+- id: pub-09
+  year: 2025
+  title: Electro reduction-recovery of Au(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub><sup>3−</sup> within a low concentration
+    range via multi-porous activated carbon electrodes
+  authors: X. Zhang, <strong>W. Zhan*</strong>, Q. Weng, S. Wang, S. Song, J. Arauz-Lara, F. Jia
+  journal: Separation and Purification Technology
+  details: 354, 129134
+  doi: 10.1016/j.seppur.2024.129134
+  image: /images/publications/pub-09.png
+  pdf: /files/publications/pub-09.pdf
+- id: pub-10
+  year: 2025
+  title: 'Exploring phosphorus dissociation kinetics in HCl-leached moderate-grade phosphate ores: Towards high-quality dicalcium
+    phosphate production'
+  authors: H. Younes, L. Qin, A. Ahmed, F. Jia, S. Song, <strong>W. Zhan*</strong>
+  journal: Minerals Engineering
+  details: 231, 109480
+  doi: 10.1016/j.mineng.2025.109480
+  image: /images/publications/pub-10.png
+  pdf: /files/publications/pub-10.pdf
+- id: pub-11
+  year: 2024
+  title: Regulating chemisorption and electrosorption activity for efficient uptake of rare earth elements in low concentration
+    on oxygen-doped molybdenum disulfide
+  authors: <strong>W. Zhan</strong>, X. Zhang, Y. Yuan, Q. Weng, S. Song, M. Martínez-Lopez, J. Arauz-Lara, F. Jia
+  journal: ACS Nano
+  details: 18, 7298–7310
+  doi: 10.1021/acsnano.4c00691
+  image: /images/publications/pub-11.png
+  pdf: /files/publications/pub-11.pdf
+- id: pub-12
+  year: 2024
+  title: 'A novel insight of interaction mechanism of carboxymethyl cellulose with talc surface: A combined molecular dynamics
+    simulation and DFT investigation'
+  authors: <strong>W. Zhan</strong>, S. Yang, S. Bao, L. Ren, C. Liu
+  journal: Applied Clay Science
+  details: 247, 107201
+  doi: 10.1016/j.clay.2023.107201
+  image: /images/publications/pub-12.png
+  pdf: /files/publications/pub-12.pdf
+- id: pub-13
+  year: 2024
+  title: Efficient and selective Lead(II) removal within a wide concentration range through chemisorption and electrosorption
+    coupling process via defective MoS<sub>2</sub> electrode
+  authors: <strong>W. Zhan</strong>, Y. Yuan, X. Zhang, Y. Liang, S. Song, M. Martínez-Lopez, J. Arauz-Lara, F. Jia
+  journal: Separation and Purification Technology
+  details: 329, 125183
+  doi: 10.1016/j.seppur.2023.125183
+  image: /images/publications/pub-13.png
+  pdf: /files/publications/pub-13.pdf
+- id: pub-14
+  year: 2024
+  title: Electro-assisted sorption behavior and mechanism of low-concentration rare earth elements on carbon-based materials
+  authors: X. Zhang, <strong>W. Zhan*</strong>, Q. Weng, S. Wang, S. Song, J. Arauz-Lara, F. Jia
+  journal: Applied Surface Science
+  details: 664, 160224
+  doi: 10.1016/j.apsusc.2024.160224
+  image: /images/publications/pub-14.png
+  pdf: /files/publications/pub-14.pdf
+- id: pub-15
+  year: 2024
+  title: Facet engineering in cadmium sulfide for efficient reduction-recovery of low-concentration gold(I) from thiosulfate
+    solutions
+  authors: J. Gao, <strong>W. Zhan*</strong>, Z. Xiang, S. Song, J. Arauz-Lara, F. Jia, P. Chen
+  journal: Journal of Molecular Liquids
+  details: 413, 126018
+  doi: 10.1016/j.molliq.2024.126018
+  image: /images/publications/pub-15.png
+  pdf: /files/publications/pub-15.pdf
+- id: pub-16
+  year: 2024
+  title: Novel recovery of a low-concentration gold thiosulfate complex through electroreduction via a walnut shell charcoal
+    electrode
+  authors: Q. Weng, S. Song, <strong>W. Zhan*</strong>, X. Zhang, Z. Xiang, J. Gao, F. Jia
+  journal: Green and Smart Mining Engineering
+  details: 1, 58–66
+  doi: 10.1016/j.gsme.2024.03.004
+  image: /images/publications/pub-16.png
+  pdf: /files/publications/pub-16.pdf
+- id: pub-17
+  year: 2024
+  title: Controllably constructing morphology and structure of potassium chloride crystal by green supersaturation modulation
+  authors: Y. Yuan, <strong>W. Zhan</strong>, W. Zhang, R. Yao, P. Chen, F. Jia, H. Yi, S. Song, A. Valdivieso
+  journal: Surfaces and Interfaces
+  details: 52, 104973
+  doi: 10.1016/j.surfin.2024.104973
+  image: /images/publications/pub-17.png
+  pdf: /files/publications/pub-17.pdf
+- id: pub-18
+  year: 2024
+  title: Novel strategy for improved sylvite flotation through controlled crystallization
+  authors: Y. Yuan, <strong>W. Zhan</strong>, Y. Tian, A. Valdivieso, H. Yi, S. Song, L. Cisternas, F. Jia
+  journal: Minerals Engineering
+  details: 211, 108695
+  doi: 10.1016/j.mineng.2024.108695
+  image: /images/publications/pub-18.png
+  pdf: /files/publications/pub-18.pdf
+- id: pub-19
+  year: 2024
+  title: Novel insights into sylvite flotation modulated by exposing facets
+  authors: Y. Yuan, <strong>W. Zhan</strong>, A. Valdivieso, S. Ma, Y. Tian, H. Yi, G. Dong, S. Song, L. Cisternas, F. Jia
+  journal: Powder Technology
+  details: 443, 119969
+  doi: 10.1016/j.powtec.2024.119969
+  image: /images/publications/pub-19.png
+  pdf: /files/publications/pub-19.pdf
+- id: pub-20
+  year: 2022
+  title: 'Preparation and application of 0D, 2D and 3D molybdenite: A review'
+  authors: <strong>W. Zhan</strong>, Y. Yuan, C. Liu, P. Chen, Y. Liang, Y. Wang, J. Arauz-Lara, F. Jia
+  journal: Minerals and Mineral Materials
+  details: 1(1), 5
+  doi: 10.20517/mmm.2022.04
+  image: /images/publications/pub-20.png
+  pdf: /files/publications/pub-20.pdf
+- id: pub-21
+  year: 2022
+  title: Manganese and oxygen dual-doping MoS<sub>2</sub> boosts reduction and adsorption activity toward efficient recovery
+    of gold(I) from thiosulfate solutions
+  authors: Y. Liang, <strong>W. Zhan*</strong>, Y. Yuan, N. Zamora-Romero, F. Jia, B. Yang, Z. Nasrddino, J. Arauz-Lara, S.
+    Song
+  journal: Journal of Alloys and Compounds
+  details: 928, 167185
+  doi: 10.1016/j.jallcom.2022.167185
+  image: /images/publications/pub-21.png
+  pdf: /files/publications/pub-21.pdf
+- id: pub-22
+  year: 2022
+  title: The reduction mechanism of HAuCl<sub>4</sub> on the surface of edge-rich molybdenum disulfide
+  authors: Y. Yuan, <strong>W. Zhan</strong>, F. Jia, S. Song
+  journal: Surfaces and Interfaces
+  details: 33, 102199
+  doi: 10.1016/j.surfin.2022.102199
+  image: /images/publications/pub-22.png
+  pdf: /files/publications/pub-22.pdf
+- id: pub-23
+  year: 2022
+  title: Microwave-assisted hydrothermal synthesis of MoS<sub>2</sub>–Ag<sub>3</sub>PO<sub>4</sub> nanocomposites as visible
+    light photocatalyst for the degradation of tetracycline hydrochloride
+  authors: H. Lwin, <strong>W. Zhan</strong>, F. Jia, S. Song
+  journal: Environmental Technology
+  details: 43(1), 149–162
+  doi: 10.1080/21622515.2020.1782478
+  image: /images/publications/pub-23.png
+  pdf: /files/publications/pub-23.pdf
+- id: pub-24
+  year: 2021
+  title: Efficient recovery of gold(I) from thiosulfate solutions through photocatalytic reduction with Mn(II)-doped MoS<sub>2</sub>
+  authors: <strong>W. Zhan</strong>, Y. Yuan, X. Yao, B. Yang, F. Jia, C. Lin, J. Arauz-Lara, S. Song
+  journal: ACS Sustainable Chemistry & Engineering
+  details: 9, 11681–11690
+  doi: 10.1021/acssuschemeng.1c02160
+  image: /images/publications/pub-24.png
+  pdf: /files/publications/pub-24.pdf
+- id: pub-25
+  year: 2021
+  title: Research progress of molybdenum disulfide as a material for seawater desalination
+  authors: Q. Guo, <strong>W. Zhan</strong>, Q. Wang, F. Jia, S. Song
+  journal: Chemical Industry and Engineering Progress
+  details: 40, 1456–1468
+  doi: ''
+  image: /images/publications/pub-25.png
+  pdf: /files/publications/pub-25.pdf
+- id: pub-26
+  year: 2020
+  title: Construction of MoS<sub>2</sub> nano-heterojunction via ZnS doping for enhancing in-situ photocatalytic reduction
+    of gold thiosulfate complex
+  authors: <strong>W. Zhan</strong>, Y. Yuan, B. Yang, F. Jia, S. Song
+  journal: Chemical Engineering Journal
+  details: 394, 124866
+  doi: 10.1016/j.cej.2020.124866
+  image: /images/publications/pub-26.png
+  pdf: /files/publications/pub-26.pdf
+- id: pub-27
+  year: 2020
+  title: Controllable incorporation of oxygen in MoS<sub>2</sub> for efficient adsorption of Hg<sup>2+</sup> in aqueous solutions
+  authors: <strong>W. Zhan</strong>, F. Jia, Y. Yuan, C. Liu, K. Sun, B. Yang, S. Song
+  journal: Journal of Hazardous Materials
+  details: 384, 121382
+  doi: 10.1016/j.jhazmat.2019.121382
+  image: /images/publications/pub-27.png
+  pdf: /files/publications/pub-27.pdf
+- id: pub-28
+  year: 2020
+  title: Hydrophobic agglomeration of montmorillonite fines in aqueous solutions induced by dodecyl trimethyl ammonium bromides
+  authors: <strong>W. Zhan</strong>, H. Yi, S. Song, C. Liu
+  journal: Chemical Physics Letters
+  details: 739, 136999
+  doi: 10.1016/j.cplett.2019.136999
+  image: /images/publications/pub-28.png
+  pdf: /files/publications/pub-28.pdf
+- id: pub-29
+  year: 2020
+  title: Research progress of leaching of gold with thiosulphate
+  authors: W. Wang, <strong>W. Zhan</strong>, F. Jia, S. Song
+  journal: Hydrometallurgy of China
+  details: 39(6), 451–458
+  doi: ''
+  image: /images/publications/pub-29.png
+  pdf: /files/publications/pub-29.pdf
+- id: pub-30
+  year: 2020
+  title: In-situ reduction of Au(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub><sup>3−</sup> for efficient recovery of gold with
+    magnetically separable shell-core structured MoS<sub>2</sub>@Fe<sub>3</sub>O<sub>4</sub> composite
+  authors: K. Sun, S. Mao, <strong>W. Zhan</strong>, C. Liu, F. Jia
+  journal: Hydrometallurgy
+  details: 198, 105514
+  doi: 10.1016/j.hydromet.2020.105514
+  image: /images/publications/pub-30.png
+  pdf: /files/publications/pub-30.pdf
+- id: pub-31
+  year: 2020
+  title: Multi-edged molybdenite achieved by thermal modification for enhancing Pb(II) adsorption in aqueous solutions
+  authors: Y. Yuan, <strong>W. Zhan</strong>, F. Jia, S. Song
+  journal: Chemosphere
+  details: 251, 126369
+  doi: 10.1016/j.chemosphere.2020.126369
+  image: /images/publications/pub-31.png
+  pdf: /files/publications/pub-31.pdf
+- id: pub-32
+  year: 2019
+  title: Development of 2D-Mt/SA/AgNPs microencapsulation phase change materials for solar energy storage with enhancement
+    of thermal conductivity and latent heat capacity
+  authors: <strong>W. Zhan</strong>, Y. Zhao, Y. Yuan, H. Yi, S. Song, C. Liu
+  journal: Solar Energy Materials and Solar Cells
+  details: 201, 110090
+  doi: 10.1016/j.solmat.2019.110090
+  image: /images/publications/pub-32.png
+  pdf: /files/publications/pub-32.pdf
+- id: pub-33
+  year: 2019
+  title: Hydrophobic agglomeration behaviors of clay minerals as affected by siloxane structure
+  authors: <strong>W. Zhan</strong>, H. Yi, S. Song, Y. Zhao, F. Rao
+  journal: 'Colloids and Surfaces A: Physicochemical and Engineering Aspects'
+  details: 568, 36–42
+  doi: 10.1016/j.colsurfa.2019.01.061
+  image: /images/publications/pub-33.png
+  pdf: /files/publications/pub-33.pdf
+- id: pub-34
+  year: 2019
+  title: Visible-light photocatalytic degradation pathway of tetracycline hydrochloride with cubic structured ZnO/SnO<sub>2</sub>
+    heterojunction nanocatalyst
+  authors: H. Lwin, <strong>W. Zhan</strong>, S. Song, F. Jia, J. Zhou
+  journal: Chemical Physics Letters
+  details: 736, 136806
+  doi: 10.1016/j.cplett.2019.136806
+  image: /images/publications/pub-34.png
+  pdf: /files/publications/pub-34.pdf
+- id: pub-35
+  year: 2019
+  title: 'Design of MtNS/SA microencapsulated phase change materials for enhancement of thermal energy storage performances:
+    Effect of shell thickness'
+  authors: H. Yi, <strong>W. Zhan</strong>, X. Zhang, Y. Zhao, F. Jia, Z. Ai, W. Wang, S. Song
+  journal: Solar Energy Materials and Solar Cells
+  details: 200, 109935
+  doi: 10.1016/j.solmat.2019.109935
+  image: /images/publications/pub-35.png
+  pdf: /files/publications/pub-35.pdf
+- id: pub-36
+  year: 2019
+  title: A novel method for surface wettability modification of talc through thermal treatment
+  authors: H. Yi, Y. Zhao, Y. Liu, W. Wang, S. Song, C. Liu, H. Li, <strong>W. Zhan</strong>, X. Liu
+  journal: Applied Clay Science
+  details: 176, 21–28
+  doi: 10.1016/j.clay.2019.04.023
+  image: /images/publications/pub-36.png
+  pdf: /files/publications/pub-36.pdf
+- id: pub-37
+  year: 2019
+  title: A novel core-shell structural montmorillonite nanosheets/stearic acid composite PCM for great promotion of energy
+    storage properties
+  authors: H. Yi, <strong>W. Zhan</strong>, Y. Zhao, S. Qu, W. Wang, P. Chen, S. Song
+  journal: Solar Energy Materials and Solar Cells
+  details: 192, 57–64
+  doi: 10.1016/j.solmat.2018.12.015
+  image: /images/publications/pub-37.png
+  pdf: /files/publications/pub-37.pdf
+- id: pub-38
+  year: 2019
+  title: 'Driving force for the swelling of montmorillonite as affected by surface charge and exchangeable cations: A molecular
+    dynamics study'
+  authors: J. Peng, H. Yi, S. Song, <strong>W. Zhan</strong>, Y. Zhao
+  journal: Results in Physics
+  details: 12, 113–117
+  doi: 10.1016/j.rinp.2018.11.011
+  image: /images/publications/pub-38.png
+  pdf: /files/publications/pub-38.pdf
+- id: pub-39
+  year: 2018
+  title: Molecular dynamics simulations study for the effect of cations hydration on the surface tension of electrolyte solutions
+  authors: Y. Yuan, <strong>W. Zhan</strong>, H. Yi, Y. Zhao, S. Song
+  journal: 'Colloids and Surfaces A: Physicochemical and Engineering Aspects'
+  details: 539, 80–84
+  doi: 10.1016/j.colsurfa.2017.12.005
+  image: /images/publications/pub-39.png
+  pdf: /files/publications/pub-39.pdf
