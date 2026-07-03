@@ -25,10 +25,11 @@ My long-term goal is to establish a research program centered on mineral interfa
 
 ## Research Interests
 
-- Mineral interface engineering
-- Clay minerals and alkali-activated materials
-- Molecular simulations
-- Density functional theory
-- Sustainable recovery of critical metals
-- Electrochemcial interfacial processes
-- AI-assisted materials design
+<div class="tag-list">
+  <span>Mineral Interfaces</span>
+  <span>Sustainable Construction</span>
+  <span>Critical Metal Recovery</span>
+  <span>Molecular Simulations</span>
+  <span>Electrochemistry</span>
+  <span>Catalysis</span>
+</div>
