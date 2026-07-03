@@ -1,12 +1,47 @@
---- title: "Publications" permalink: /publications/ author_profile: true ---
-A complete list of my peer-reviewed publications is also available on Google Scholar.
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-{% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %} {% for year_group in publication_years %}
-{{ year_group.name }}
-{% for pub in year_group.items %}
-Graphical abstract for {{ pub.title | strip_html }}
-{{ pub.title }}
-{{ pub.authors }}
-{{ pub.journal }}, {{ pub.year }}, {{ pub.details }}.
-{% if pub.pdf and pub.pdf != "" %} PDF {% endif %} {% if pub.doi and pub.doi != "" %} DOI {% endif %}
-{% endfor %} {% endfor %}
+<p class="publications-intro">
+  A complete list of my peer-reviewed publications is also available on
+  <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>.
+</p>
+
+{% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+
+{% for year_group in publication_years %}
+  <h2 class="pub-year">{{ year_group.name }}</h2>
+
+  {% for pub in year_group.items %}
+    <article class="pub-card">
+      <div class="pub-image">
+        <img
+          src="{{ pub.image | relative_url }}"
+          alt="Graphical abstract for {{ pub.title | strip_html }}"
+          onerror="this.onerror=null; this.src='{{ '/images/publications/placeholder.svg' | relative_url }}';">
+      </div>
+
+      <div class="pub-info">
+        <div class="pub-title">{{ pub.title }}</div>
+
+        <div class="pub-authors">{{ pub.authors }}</div>
+
+        <div class="pub-journal-text">
+          <em>{{ pub.journal }}</em>, {{ pub.year }}, {{ pub.details }}.
+        </div>
+
+        <div class="pub-links">
+          {% if pub.pdf and pub.pdf != "" %}
+            <a href="{{ pub.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>
+          {% endif %}
+
+          {% if pub.doi and pub.doi != "" %}
+            <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>
+          {% endif %}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+{% endfor %}
