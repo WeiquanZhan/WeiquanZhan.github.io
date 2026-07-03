@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 ## Research Themes
 
 <div class="research-grid">
