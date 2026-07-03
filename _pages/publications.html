@@ -5,29 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>
+You can also find my articles on
+<a href="https://scholar.google.com/citations?hl=en&user=r_BhD_cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
+</p>
 
-{% include base_path %}
+<h2>Selected Publications</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>2024</h3>
+
+<div class="pub-card">
+  <div class="pub-image">
+    <img src="/images/pub-2024-acs-nano.png" alt="ACS Nano graphical abstract">
+  </div>
+
+  <div class="pub-info">
+    <div class="pub-journal">ACS Nano</div>
+
+    <div class="pub-title">
+      Regulating Chemisorption and Electrosorption Activity for Efficient Uptake of Rare Earth Elements in Low Concentration on Oxygen-Doped Molybdenum Disulfide
+    </div>
+
+    <div class="pub-authors">
+      <strong>Weiquan Zhan</strong>, et al.
+    </div>
+
+    <div class="pub-meta">
+      2024
+    </div>
+
+    <div class="pub-links">
+      <a href="https://doi.org/10.1021/acsnano.4c00691" target="_blank">DOI</a>
+      <a href="#">PDF</a>
+    </div>
+  </div>
+</div>
