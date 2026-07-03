@@ -503,14 +503,34 @@
   background: #f8f9fa;
 }
 
-.pub-journal {
-  display: inline-block;
-  font-weight: 700;
-  color: #0f4c5c;
-  background: #d8f1ef;
-  padding: 0.25rem 0.65rem;
-  border-radius: 999px;
-  margin-bottom: 0.55rem;
+.page__title {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.pub-card {
+  display: flex;
+  gap: 1.8rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  align-items: flex-start;
+}
+
+.pub-image {
+  flex: 0 0 220px;
+}
+
+.pub-image img {
+  width: 220px;
+  height: 150px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: #f8f9fa;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.pub-info {
+  flex: 1;
 }
 
 .pub-title {
@@ -523,13 +543,13 @@
 
 .pub-authors {
   color: #4a4f55;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.35rem;
 }
 
-.pub-meta {
-  color: #666;
-  font-style: italic;
-  margin-bottom: 0.6rem;
+.pub-journal-text {
+  color: #555;
+  font-style: normal;
+  margin-bottom: 0.65rem;
 }
 
 .pub-links a {
@@ -546,9 +566,4 @@
 .pub-links a:hover {
   background: #2a9d8f;
   color: #fff;
-}
-
-.page__title {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
 }
