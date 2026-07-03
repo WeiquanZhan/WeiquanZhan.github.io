@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300">
+  <rect width="440" height="300" fill="#f8f9fa"/>
+  <rect x="28" y="28" width="384" height="244" rx="12" fill="#eef6f5" stroke="#b9dbd6" stroke-width="2"/>
+  <circle cx="120" cy="145" r="38" fill="#2a9d8f" opacity="0.18"/>
+  <circle cx="183" cy="115" r="25" fill="#1f3b4d" opacity="0.15"/>
+  <circle cx="228" cy="175" r="32" fill="#2a9d8f" opacity="0.20"/>
+  <path d="M120 145 L183 115 L228 175" stroke="#2a9d8f" stroke-width="3" opacity="0.45"/>
+  <text x="220" y="225" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#4a4f55">Graphical abstract</text>
+  <text x="220" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#6b7280">Upload the paper figure to replace this placeholder</text>
+</svg>
