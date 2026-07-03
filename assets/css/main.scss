@@ -105,10 +105,20 @@
 
 @media (min-width: 1024px) {
 
+@media (min-width: 1024px) {
+
+  /* 整个页面最大宽度 */
+  .initial-content{
+      max-width: 1700px;
+      margin: 0 auto;
+  }
+
+  /* 左侧作者栏 */
   .sidebar{
       width:260px;
   }
 
+  /* 正文区域 */
   .page{
       width:calc(100% - 280px);
       max-width:none;
@@ -116,8 +126,9 @@
       padding-right:2rem;
   }
 
+  /* 正文不要再限制宽度 */
   .page__inner-wrap{
-      max-width:1400px;
+      max-width:none;
       width:100%;
   }
 
