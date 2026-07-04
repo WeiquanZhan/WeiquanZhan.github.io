@@ -759,3 +759,23 @@
     grid-template-columns: 1fr;
   }
 }
+
+.patent-note {
+  margin: -0.2rem 0 1rem;
+  color: #666;
+}
+
+.patent-card {
+  display: block;
+  padding: 1.25rem 0 1.4rem 1.25rem;
+  border-left: 4px solid #d8f1ef;
+}
+
+.patent-card .pub-title {
+  margin-bottom: 0.5rem;
+}
+
+.patent-card .pub-journal-text {
+  margin-bottom: 0;
+  font-style: normal;
+}
