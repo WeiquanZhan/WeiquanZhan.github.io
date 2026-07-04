@@ -24,7 +24,10 @@ author:
   avatar           : "weiquanzhannew.png"
   name             : "Weiquan Zhan"
   pronouns         : # example: "He/him"  
-  bio              : "Hydrometallurgy, Critical metals, Clay minerals"
+  bio: |
+  Mineral Interface Engineering
+  Critical Metal Recovery
+  Clay Minerals
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
