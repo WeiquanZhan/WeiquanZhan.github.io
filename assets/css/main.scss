@@ -1238,3 +1238,143 @@
     white-space: normal !important;
   }
 }
+
+/* ===== Home hero ===== */
+
+.home-page .page__title {
+  display: none;
+}
+
+.home-page .page__inner-wrap > header {
+  display: none;
+}
+
+.home-page .page__content {
+  margin-top: 0;
+}
+
+.mine-hero {
+  position: relative;
+  min-height: 315px;
+  margin: 0 0 2.2rem;
+  overflow: hidden;
+  border-radius: 12px;
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(16, 57, 73, 0.88) 0%,
+      rgba(16, 57, 73, 0.68) 48%,
+      rgba(16, 57, 73, 0.32) 100%
+    ),
+    url("/images/home-hero.jpg");
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.12);
+}
+
+.mine-hero__content {
+  max-width: 930px;
+  padding: 4.4rem 4.2rem;
+  color: #ffffff;
+}
+
+.mine-hero__eyebrow {
+  margin: 0 0 0.7rem !important;
+  color: #a7ebe2;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-align: left !important;
+}
+
+.mine-hero h1 {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  color: #ffffff !important;
+  font-size: 2.65rem !important;
+  line-height: 1.16;
+}
+
+.mine-hero__tagline {
+  max-width: 720px;
+  margin: 1rem 0 0 !important;
+  color: #eaf7f5;
+  font-size: 1.14rem;
+  font-style: italic;
+  line-height: 1.65;
+  text-align: left !important;
+}
+
+.home-page .lead {
+  max-width: 1250px;
+  margin-bottom: 2.4rem;
+}
+
+@media (max-width: 768px) {
+  .mine-hero {
+    min-height: 260px;
+    border-radius: 8px;
+  }
+
+  .mine-hero__content {
+    padding: 3rem 1.6rem;
+  }
+
+  .mine-hero h1 {
+    font-size: 2rem !important;
+  }
+}
+
+
+/* ===== Centered sidebar profile ===== */
+
+@media (min-width: 1024px) {
+
+  .sidebar {
+    text-align: center;
+  }
+
+  .author__avatar {
+    display: flex;
+    justify-content: center;
+  }
+
+  .author__avatar img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .author__content,
+  .author__name,
+  .author__bio {
+    text-align: center !important;
+  }
+
+  .author__name {
+    margin-top: 0.95rem !important;
+    margin-bottom: 0.7rem !important;
+  }
+
+  .author__bio {
+    line-height: 1.65 !important;
+  }
+
+  .author__urls-wrapper {
+    text-align: center;
+    margin-top: 1.5rem !important;
+  }
+
+  .author__urls {
+    display: inline-block;
+    margin: 0 auto !important;
+    padding-left: 0 !important;
+    text-align: left;
+  }
+
+  .author__urls li {
+    padding: 0.32rem 0 !important;
+    line-height: 1.45 !important;
+    text-align: left !important;
+  }
+}
