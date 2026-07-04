@@ -1201,35 +1201,3 @@
   color: #4a4f55;
 }
 
-@media (min-width: 1024px) {
-
-  .sidebar {
-    width: 310px !important;
-    max-width: 310px !important;
-    padding-left: 1.2rem !important;
-    padding-right: 1.5rem !important;
-  }
-
-  .page {
-    width: calc(100% - 330px) !important;
-  }
-
-  .author__urls-wrapper {
-    overflow: visible !important;
-  }
-
-  .author__urls,
-  .author__urls li,
-  .author__urls li a {
-    white-space: normal !important;
-    overflow: visible !important;
-    text-overflow: clip !important;
-    overflow-wrap: anywhere;
-  }
-
-  .author__urls li {
-    padding-top: 0.28rem !important;
-    padding-bottom: 0.28rem !important;
-    line-height: 1.45 !important;
-  }
-}
