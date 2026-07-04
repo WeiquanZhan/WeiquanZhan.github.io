@@ -46,6 +46,7 @@ Download PDF CV
   <div class="cv-content">
     <h3>Ph.D. in Interdisciplinary Science</h3>
     <p><strong>Autonomous University of San Luis Potosí</strong>, San Luis Potosí, Mexico</p>
+    <p class="cv-detail">Advisor: Prof. Shaoxian Song & Prof. Jose Luis Arauz-Lara</p>
   </div>
 </div>
 
