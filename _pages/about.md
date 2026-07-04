@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Mineral Interface Engineering (MINE)"
 classes:
   - home-page
 author_profile: true
