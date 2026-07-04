@@ -1097,3 +1097,39 @@
     gap: 0.15rem;
   }
 }
+
+/* ===== Sidebar profile refinement ===== */
+
+@media (min-width: 1024px) {
+
+  .sidebar {
+    padding-top: 1.8rem;
+    padding-left: 1rem;
+    padding-right: 1.25rem;
+  }
+
+  .author__name {
+    margin-top: 1rem;
+    margin-bottom: 0.65rem;
+    font-size: 1.28rem;
+    line-height: 1.25;
+  }
+
+  .author__bio {
+    margin-bottom: 1.6rem;
+    color: #4a4f55;
+    font-size: 0.98rem;
+    line-height: 1.7;
+    white-space: pre-line;
+  }
+
+  .author__urls-wrapper {
+    margin-top: 1.15rem;
+  }
+
+  .author__urls li {
+    padding: 0.22rem 0;
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+}
