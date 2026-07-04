@@ -6,8 +6,14 @@ author_profile: true
 
 <p class="publications-intro">
   A complete list of my peer-reviewed publications is also available on
-  <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>.
+  <a href="https://scholar.google.com/citations?user=r_BhD_cAAAAJ&hl=zh-CN&oi=ao" target="_blank" rel="noopener">Google Scholar</a>.
 </p>
+
+<div class="publication-tools">
+  <a class="output-link" href="{{ '/patents/' | relative_url }}">
+    View granted patents →
+  </a>
+</div>
 
 {% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 
