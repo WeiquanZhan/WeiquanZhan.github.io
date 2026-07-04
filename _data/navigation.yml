@@ -19,3 +19,9 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Gallery"
+    url: /gallery/
