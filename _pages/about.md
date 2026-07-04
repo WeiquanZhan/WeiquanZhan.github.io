@@ -42,3 +42,9 @@ My long-term goal is to establish a research program centered on mineral interfa
   <span>Electrochemistry</span>
   <span>Catalysis</span>
 </div>
+
+## Selected Honors
+
+- CONAHCYT National Scholarship, Mexico, 2021–2025
+- China National Scholarship, 2019–2021
+- Excellent Contribution Award, *Green and Smart Mining Engineering*, 2024
