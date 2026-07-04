@@ -1390,3 +1390,28 @@
     text-align: left !important;
   }
 }
+
+.sidebar {
+  position: relative;
+  z-index: 20;
+}
+
+.author__urls-wrapper,
+.author__urls,
+.author__urls li,
+.author__urls li a {
+  pointer-events: auto !important;
+}
+
+.author__urls {
+  position: relative;
+  z-index: 30;
+}
+
+.author__urls li a {
+  position: relative;
+  z-index: 31;
+  display: inline-flex !important;
+  align-items: center;
+  cursor: pointer;
+}
