@@ -1,17 +1,25 @@
 ---
 permalink: /
 title: "Mineral Interface Engineering (MINE)"
+classes:
+  - home-page
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="subtitle">
+<section class="mine-hero">
+  <div class="mine-hero__content">
+    <p class="mine-hero__eyebrow">MINERAL INTERFACE ENGINEERING</p>
 
-Understanding and engineering mineral interfaces for a sustainable future
+    <h1>Mineral Interface Engineering (MINE)</h1>
 
-</div>
+    <p class="mine-hero__tagline">
+      Understanding and engineering mineral interfaces for a sustainable future
+    </p>
+  </div>
+</section>
 
 <div class="lead">
   
