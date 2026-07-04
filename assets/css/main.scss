@@ -934,3 +934,69 @@
     grid-template-columns: 1fr;
   }
 }
+
+.talks-intro {
+  max-width: 1050px;
+  margin: 0 0 2rem;
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.talks-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.talk-entry {
+  display: grid;
+  grid-template-columns: 78px 1fr;
+  gap: 1.2rem;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.talk-year {
+  color: #2a9d8f;
+  font-size: 1.05rem;
+  font-weight: 800;
+  padding-top: 0.15rem;
+}
+
+.talk-type {
+  display: inline-block;
+  margin-bottom: 0.55rem;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: #e7f5f3;
+  color: #176b67;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+}
+
+.talk-type.poster {
+  background: #f4eee1;
+  color: #8a6724;
+}
+
+.talk-content h2 {
+  margin: 0 0 0.45rem !important;
+  padding: 0 !important;
+  border-bottom: 0 !important;
+  color: #1f3b4d;
+  font-size: 1.1rem !important;
+  line-height: 1.42;
+}
+
+.talk-event {
+  margin: 0;
+  color: #666;
+}
+
+@media (max-width: 700px) {
+  .talk-entry {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
+  }
+}
