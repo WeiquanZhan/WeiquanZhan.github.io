@@ -119,7 +119,16 @@ Download PDF CV
 
 ## Professional Service
 
-<div class="cv-awards">
-  <div>Young Editorial Board Member, <em>Green Carbon</em></div>
-  <div>Reviewer for more than 20 SCI-indexed journals</div>
+<div class="cv-service">
+
+  <div class="cv-service-item">
+    <span class="service-role">Young Editorial Board Member</span>
+    <span class="service-detail"><em>Green Carbon</em></span>
+  </div>
+
+  <div class="cv-service-item">
+    <span class="service-role">Peer Reviewer</span>
+    <span class="service-detail">More than 20 SCI-indexed journals</span>
+  </div>
+
 </div>
