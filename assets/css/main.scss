@@ -779,3 +779,158 @@
   margin-bottom: 0;
   font-style: normal;
 }
+
+.patents-intro,
+.news-intro,
+.gallery-intro {
+  max-width: 1050px;
+  margin: 0 0 2rem;
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.patents-list {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.patent-entry {
+  padding: 1.35rem 1.5rem;
+  border: 1px solid #e5e7eb;
+  border-left: 5px solid #2a9d8f;
+  border-radius: 9px;
+  background: #fff;
+  box-shadow: 0 5px 16px rgba(0,0,0,0.04);
+}
+
+.patent-number {
+  color: #2a9d8f;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+.patent-title {
+  margin: 0 0 0.55rem !important;
+  padding: 0 !important;
+  border-bottom: 0 !important;
+  color: #1f3b4d;
+  font-size: 1.13rem !important;
+  line-height: 1.42;
+}
+
+.patent-inventors {
+  margin: 0 0 0.35rem;
+  color: #4a4f55;
+}
+
+.patent-meta {
+  margin: 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* ===== Publications shortcut ===== */
+
+.publication-tools {
+  margin: -0.4rem 0 2rem;
+}
+
+.output-link {
+  display: inline-block;
+  padding: 0.45rem 0.85rem;
+  border: 1px solid #2a9d8f;
+  border-radius: 7px;
+  color: #2a9d8f;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.output-link:hover {
+  background: #2a9d8f;
+  color: #fff;
+}
+
+/* ===== News ===== */
+
+.news-timeline {
+  border-left: 2px solid #d8f1ef;
+  margin-left: 0.45rem;
+  padding-left: 1.55rem;
+}
+
+.news-item {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.news-item::before {
+  content: "";
+  position: absolute;
+  left: -1.98rem;
+  top: 0.38rem;
+  width: 0.78rem;
+  height: 0.78rem;
+  border-radius: 50%;
+  background: #2a9d8f;
+}
+
+.news-year {
+  color: #2a9d8f;
+  font-weight: 800;
+  margin-bottom: 0.25rem;
+}
+
+.news-content {
+  color: #4a4f55;
+  line-height: 1.65;
+}
+
+/* ===== Gallery ===== */
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.3rem;
+}
+
+.gallery-card {
+  min-height: 190px;
+  padding: 1.45rem;
+  border: 1px solid #e5e7eb;
+  border-top: 4px solid #2a9d8f;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+}
+
+.gallery-card h2 {
+  margin-top: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: 0 !important;
+  font-size: 1.15rem !important;
+}
+
+.gallery-card p {
+  text-align: left !important;
+  color: #555;
+}
+
+.gallery-status {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.26rem 0.56rem;
+  border-radius: 999px;
+  background: #e7f5f3;
+  color: #176b67;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+@media (max-width: 850px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
