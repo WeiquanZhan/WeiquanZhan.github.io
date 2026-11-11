@@ -1415,3 +1415,150 @@
   align-items: center;
   cursor: pointer;
 }
+
+/* ==========================================================
+   MINE academic website v2 – append after all existing SCSS.
+   Avoid duplicating earlier declarations where possible.
+   ========================================================== */
+
+/* Home: two concise paragraphs replace the separate Vision section */
+.page__content .mine-home-bio {
+  width: 100%;
+  max-width: none;
+  margin: 0 0 2rem;
+  color: #424a50;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.page__content .mine-home-bio p {
+  margin: 0 0 1.05rem;
+  text-align: justify !important;
+  text-justify: inter-word;
+  line-height: 1.8;
+}
+.page__content .mine-home-bio a {
+  text-decoration: underline;
+  text-decoration-color: rgba(42, 157, 143, 0.42);
+  text-underline-offset: 2px;
+}
+
+/* Home: consistently aligned themes */
+.page__content ol.mine-theme-list {
+  margin: 0.8rem 0 1.65rem;
+  padding-left: 1.9rem;
+}
+.page__content ol.mine-theme-list li {
+  margin: 0.3rem 0;
+  padding-left: 0.4rem;
+  color: #4a4f55;
+  font-weight: 400;
+  text-align: left !important;
+  line-height: 1.65;
+}
+.mine-interest-tags {
+  margin-bottom: 1.7rem;
+}
+.page__content .mine-honors {
+  margin: 0.7rem 0 1.4rem;
+  padding-left: 1.25rem;
+}
+.page__content .mine-honors li {
+  margin: 0.36rem 0;
+  line-height: 1.65;
+  text-align: left !important;
+}
+.mine-home-links {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+.page__content .mine-home-links a {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #2a9d8f;
+  border-radius: 7px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.page__content .mine-home-links a:hover {
+  background: #2a9d8f;
+  color: white;
+}
+
+/* Research introduction: remove the width cap and move slightly inward */
+.page__content .research-intro {
+  width: 100%;
+  max-width: none !important;
+  margin: 0 0 1.8rem !important;
+  padding: 0.1rem 0.75rem 0.35rem;
+  box-sizing: border-box;
+  text-align: justify !important;
+  text-justify: inter-word;
+  line-height: 1.8;
+  hyphens: auto;
+}
+.page__content .research-intro p {
+  text-align: justify !important;
+  margin: 0;
+}
+
+/* Gallery: intro uses the same full-width approach as Research */
+.page__content .gallery-intro {
+  width: 100%;
+  max-width: none !important;
+  margin: 0 0 1.7rem !important;
+  padding: 0.1rem 0.75rem 0.35rem;
+  box-sizing: border-box;
+  text-align: justify !important;
+  text-justify: inter-word;
+  line-height: 1.8;
+  hyphens: auto;
+}
+.page__content .gallery-intro p,
+.page__content .gallery-card p {
+  text-align: justify !important;
+  text-justify: inter-word;
+}
+
+/* CV: tighten professional service and make long journal names wrap gracefully */
+.cv-summary {
+  color: #4a4f55;
+  line-height: 1.75;
+  padding: 0.95rem 1.1rem;
+  border-left: 3px solid #2a9d8f;
+  background: #f7fbfa;
+  margin-bottom: 1.9rem;
+}
+.cv-service {
+  display: grid;
+  gap: 0.8rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid #d8f1ef;
+}
+.cv-service .cv-service-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.5rem;
+  line-height: 1.55;
+}
+.cv-service .service-role { flex: 0 0 auto; }
+.cv-service .service-detail { flex: 1 1 350px; min-width: 0; }
+.cv-awards > div { grid-template-columns: 110px minmax(0, 1fr); }
+
+/* On narrow screens, avoid word-stretching from forced justification */
+@media (max-width: 768px) {
+  .page__content .mine-home-bio p,
+  .page__content .research-intro,
+  .page__content .research-intro p,
+  .page__content .gallery-intro,
+  .page__content .gallery-intro p,
+  .page__content .gallery-card p {
+    text-align: left !important;
+  }
+  .page__content .research-intro,
+  .page__content .gallery-intro { padding-left: 0; padding-right: 0; }
+  .cv-service .service-detail { flex-basis: 100%; }
+  .cv-awards > div { grid-template-columns: 1fr; }
+}
