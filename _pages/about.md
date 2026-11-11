@@ -40,7 +40,7 @@ redirect_from:
 <ol class="mine-theme-list">
   <li>Clay–gel interfaces for low-carbon construction materials</li>
   <li>Mineral interfaces for selective ion separation</li>
-  <li>Electrocatalytic and electrochemical recovery of trace metals</li>
+  <li>Catalytic and electrochemical recovery of trace metals</li>
   <li>Multiscale computational modeling and emerging AI-assisted interface design</li>
 </ol>
 
