@@ -10,7 +10,6 @@ redirect_from:
 
 <section class="mine-hero">
   <div class="mine-hero__content">
-    <p class="mine-hero__eyebrow">MINERAL INTERFACE ENGINEERING</p>
     <h1>Mineral Interface Engineering (MINE)</h1>
     <p class="mine-hero__tagline">Understanding and engineering mineral interfaces for a sustainable future</p>
   </div>
