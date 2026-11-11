@@ -5,21 +5,31 @@ author_profile: true
 ---
 
 <div class="cv-hero">
-
-<a class="cv-download" href="/assets/files/WeiquanZhan_CV.pdf" target="_blank">
-Download PDF CV
-</a>
-
+  <a class="cv-download" href="{{ '/assets/files/WeiquanZhan_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF CV</a>
 </div>
 
-## Academic Appointments
+<div class="cv-summary">
+  <strong>Weiquan Zhan, Ph.D.</strong> &nbsp;·&nbsp; Mineral Interface Engineering, Critical Metal Recovery &amp; Multiscale Computational Modeling<br>
+  40 peer-reviewed publications &nbsp;·&nbsp; 24 first-/corresponding-author publications &nbsp;·&nbsp; 3 granted invention patents
+</div>
+
+<h2>Academic Appointments</h2>
 
 <div class="cv-entry">
   <div class="cv-date">2026.02–Present</div>
   <div class="cv-content">
-    <h3>Research Fellow</h3>
+    <h3>Postdoctoral Research Fellow</h3>
     <p><strong>Nanyang Technological University</strong>, Singapore</p>
     <p class="cv-detail">Supervisor: Prof. Xiaojin Zheng</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-date">2025.07–2026.02</div>
+  <div class="cv-content">
+    <h3>Postdoctoral Research Fellow</h3>
+    <p><strong>Université de Lorraine</strong>, France</p>
+    <p class="cv-detail">Supervisor: Prof. Michael Badawi</p>
   </div>
 </div>
 
@@ -39,14 +49,14 @@ Download PDF CV
   </div>
 </div>
 
-## Education
+<h2>Education</h2>
 
 <div class="cv-entry">
   <div class="cv-date">2021.09–2025.07</div>
   <div class="cv-content">
     <h3>Ph.D. in Interdisciplinary Science</h3>
-    <p><strong>Autonomous University of San Luis Potosí</strong>, San Luis Potosí, Mexico</p>
-    <p class="cv-detail">Advisor: Prof. Shaoxian Song & Prof. Jose Luis Arauz-Lara</p>
+    <p><strong>Autonomous University of San Luis Potosí</strong>, Mexico</p>
+    <p class="cv-detail">Advisors: Prof. Shaoxian Song and Prof. José Luis Arauz-Lara</p>
   </div>
 </div>
 
@@ -67,69 +77,34 @@ Download PDF CV
   </div>
 </div>
 
-## Honors & Awards
+<h2>Honors &amp; Awards</h2>
 
 <div class="cv-awards">
-
-<div>
-  <span class="award-date">2024–2025</span>
-  <span class="award-text"><strong>First Prize, Science and Technology Award</strong>, Wuhan University of Technology, China · Ranked 4th</span>
+  <div><span class="award-date">2026</span><span class="award-text"><strong>Second Prize, Natural Science Award</strong>, Chinese Society of Particuology</span></div>
+  <div><span class="award-date">2024–2025</span><span class="award-text"><strong>First Prize, Science and Technology Award</strong>, Wuhan University of Technology, China (ranked 4th)</span></div>
+  <div><span class="award-date">2024</span><span class="award-text"><strong>Excellent Contribution Award</strong>, Editorial Office of <em>Green and Smart Mining Engineering</em></span></div>
+  <div><span class="award-date">2021–2025</span><span class="award-text"><strong>National Scholarship</strong>, Consejo Nacional de Ciencia y Tecnología (CONAHCYT), Mexico</span></div>
+  <div><span class="award-date">2020–2021</span><span class="award-text"><strong>China National Scholarship</strong>; First Prize Scholarship; Outstanding Graduate Student; Merit Student</span></div>
+  <div><span class="award-date">2019–2020</span><span class="award-text"><strong>China National Scholarship</strong>; First Prize Scholarship; Merit Student (university level)</span></div>
+  <div><span class="award-date">2018–2019</span><span class="award-text"><strong>Outstanding Graduate Student</strong>, Wuhan University of Technology</span></div>
+  <div><span class="award-date">2017–2018</span><span class="award-text"><strong>Second Prize</strong>, National Mineral Processing Engineering Practice Competition; Excellent League Cadre</span></div>
+  <div><span class="award-date">2015–2016</span><span class="award-text"><strong>Outstanding Student Leader</strong>, Wuhan University of Technology</span></div>
+  <div><span class="award-date">2014–2015</span><span class="award-text"><strong>Merit Student</strong>, Wuhan University of Technology (university level)</span></div>
 </div>
 
-<div>
-  <span class="award-date">2024</span>
-  <span class="award-text"><strong>Excellent Contribution Award</strong>, Editorial Office of <em>Green and Smart Mining Engineering</em></span>
-</div>
-
-<div>
-  <span class="award-date">2021–2025</span>
-  <span class="award-text"><strong>National Scholarship</strong>, Consejo Nacional de Ciencia y Tecnología, Mexico</span>
-</div>
-
-<div>
-  <span class="award-date">2020–2021</span>
-  <span class="award-text"><strong>China National Scholarship</strong>; First Prize Scholarship; Outstanding Graduate Student; Merit Student</span>
-</div>
-
-<div>
-  <span class="award-date">2019–2020</span>
-  <span class="award-text"><strong>China National Scholarship</strong>; First Prize Scholarship; Merit Student, Wuhan University of Technology</span>
-</div>
-
-<div>
-  <span class="award-date">2018–2019</span>
-  <span class="award-text"><strong>Outstanding Graduate Student</strong>, Wuhan University of Technology</span>
-</div>
-
-<div>
-  <span class="award-date">2017–2018</span>
-  <span class="award-text"><strong>Second Prize</strong>, National Mineral Processing Engineering Practice Competition; Excellent League Cadre</span>
-</div>
-
-<div>
-  <span class="award-date">2015–2016</span>
-  <span class="award-text"><strong>Outstanding Student Leader</strong>, Wuhan University of Technology</span>
-</div>
-
-<div>
-  <span class="award-date">2014–2015</span>
-  <span class="award-text"><strong>Merit Student</strong>, Wuhan University of Technology</span>
-</div>
-
-</div>
-
-## Professional Service
+<h2>Professional Service</h2>
 
 <div class="cv-service">
-
   <div class="cv-service-item">
     <span class="service-role">Young Editorial Board Member</span>
-    <span class="service-detail"><em>Green Carbon</em></span>
+    <span class="service-detail"><em>Green Carbon</em> (IF: 14.2)</span>
   </div>
-
+  <div class="cv-service-item">
+    <span class="service-role">Young Editorial Board Member</span>
+    <span class="service-detail"><em>Carbon Neutrality</em> (IF: 11.2)</span>
+  </div>
   <div class="cv-service-item">
     <span class="service-role">Peer Reviewer</span>
-    <span class="service-detail">More than 20 SCI-indexed journals</span>
+    <span class="service-detail">Completed more than 30 manuscript reviews for journals including <em>Nature Communications</em>, <em>Coordination Chemistry Reviews</em>, <em>ACS Applied Materials &amp; Interfaces</em>, <em>Chemical Engineering Journal</em>, <em>Journal of Hazardous Materials</em>, and <em>Carbohydrate Polymers</em>.</span>
   </div>
-
 </div>
