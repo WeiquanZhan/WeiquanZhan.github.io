@@ -1562,3 +1562,10 @@
   .cv-service .service-detail { flex-basis: 100%; }
   .cv-awards > div { grid-template-columns: 1fr; }
 }
+
+
+/* ===== Remove the small MINE heading ===== */
+
+.mine-hero .mine-hero__eyebrow {
+  display: none !important;
+}
