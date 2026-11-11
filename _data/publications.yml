@@ -1,3 +1,12 @@
+- id: pub-40
+  year: 2027
+  title: "pH-regulated inner-sphere coordination for selective Fe(III) removal over rare-earth elements from acidic leachates using a D2EHPA-based resin"
+  authors: "Y. Pan, <strong>W. Zhan</strong>, R. Honaker, W. Zhang"
+  journal: Separation and Purification Technology
+  details: 421, 140463
+  doi: 10.1016/j.seppur.2026.140463
+  image: /images/publications/pub-40.png
+  pdf: /files/publications/pub-40.pdf
 - id: pub-01
   year: 2026
   title: Boosting electrochemical reduction-recovery of trace gold(I) with ferric-modified walnut shell charcoal
