@@ -81,7 +81,7 @@ author_profile: true
 
 <div class="cv-awards">
   <div><span class="award-date">2026</span><span class="award-text"><strong>Second Prize, Natural Science Award</strong>, Chinese Society of Particuology</span></div>
-  <div><span class="award-date">2024–2025</span><span class="award-text"><strong>First Prize, Science and Technology Award</strong>, Wuhan University of Technology, China (ranked 4th)</span></div>
+  <div><span class="award-date">2024–2025</span><span class="award-text"><strong>First Prize, Science and Technology Award</strong>, Wuhan University of Technology, China</span></div>
   <div><span class="award-date">2024</span><span class="award-text"><strong>Excellent Contribution Award</strong>, Editorial Office of <em>Green and Smart Mining Engineering</em></span></div>
   <div><span class="award-date">2021–2025</span><span class="award-text"><strong>National Scholarship</strong>, Consejo Nacional de Ciencia y Tecnología (CONAHCYT), Mexico</span></div>
   <div><span class="award-date">2020–2021</span><span class="award-text"><strong>China National Scholarship</strong>; First Prize Scholarship; Outstanding Graduate Student; Merit Student</span></div>
