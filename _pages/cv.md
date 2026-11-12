@@ -105,6 +105,6 @@ author_profile: true
   </div>
   <div class="cv-service-item">
     <span class="service-role">Peer Reviewer</span>
-    <span class="service-detail">Completed more than 30 manuscript reviews for journals including <em>Nature Communications</em>, <em>Coordination Chemistry Reviews</em>, <em>ACS Applied Materials &amp; Interfaces</em>, <em>Chemical Engineering Journal</em>, <em>Journal of Hazardous Materials</em>, and <em>Carbohydrate Polymers</em>.</span>
+    <span class="service-detail">Served as a peer reviewer for more than 30 academic journals, including <em>Nature Communications</em>, <em>Coordination Chemistry Reviews</em>, <em>ACS Applied Materials &amp; Interfaces</em>, <em>Chemical Engineering Journal</em>, <em>Journal of Hazardous Materials</em>, and <em>Carbohydrate Polymers</em>.</span>
   </div>
 </div>
